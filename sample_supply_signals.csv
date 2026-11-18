@@ -1,0 +1,13 @@
+ndc,drug_name,n_active_labelers,is_sterile_injectable,is_controlled_subst,oai_count_12m,form483_velocity_6m,cares_3112_flag,nadac_pct_chg_90d,prior_shortage_24m,avg_weekly_units,days_on_hand,clinical_crit_score,sub_difficulty_score,entered_shortage_8w
+00409-1283-01,Bupivacaine HCl Injection 0.5%,2,1,0,1,1,1,18.4,2,420,11,5,4,1
+00703-5720-01,Cisplatin Injection 1 mg/mL,1,1,0,1,2,1,22.1,3,180,9,5,5,1
+63323-0262-01,"Heparin Sodium Injection 5,000 units/mL",3,1,0,1,1,0,12.5,2,950,14,5,3,1
+00641-6142-10,Ketorolac Tromethamine Injection 30 mg/mL,4,1,0,0,1,1,15.2,1,610,12,4,3,1
+00517-0720-25,Sodium Bicarbonate Injection 8.4%,2,1,0,1,0,1,19.8,3,840,10,5,4,1
+00093-3109-01,Amoxicillin Capsules 500 mg,12,0,0,0,0,0,1.2,0,1500,35,3,1,0
+00378-1805-01,Levothyroxine Sodium Tablets 50 mcg,8,0,0,0,0,0,0.8,0,1200,42,3,2,0
+00406-0512-01,Oxycodone HCl Tablets 5 mg,6,0,1,0,1,0,6.4,1,700,20,4,3,0
+00069-3150-83,Azithromycin Tablets 250 mg,10,0,0,0,0,0,2.1,0,650,30,3,1,0
+00409-6625-02,Norepinephrine Bitartrate Injection 1 mg/mL,3,1,0,1,0,1,16.9,2,310,8,5,4,1
+00143-9573-01,Cefazolin for Injection 1 g,5,1,0,0,1,0,9.5,1,1100,16,4,2,0
+67457-0421-02,Midazolam Injection 5 mg/mL,4,1,1,1,0,0,11.0,2,540,15,4,3,1

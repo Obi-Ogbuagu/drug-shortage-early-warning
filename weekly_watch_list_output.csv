@@ -1,0 +1,13 @@
+ndc,drug_name,avg_weekly_units,days_on_hand,prob_shortage_8w,orps_score,action_tier,top_risk_drivers
+00517-0720-25,Sodium Bicarbonate Injection 8.4%,840,10,0.99,100.0,Tier 1 - Immediate Action,Recent FDA OAI Inspection; Sole/Dual Supplier Concentration; CARES Act 3112 Notice
+00409-1283-01,Bupivacaine HCl Injection 0.5%,420,11,0.99,55.4,Tier 1 - Immediate Action,Recent FDA OAI Inspection; Sole/Dual Supplier Concentration; CARES Act 3112 Notice
+63323-0262-01,"Heparin Sodium Injection 5,000 units/mL",950,14,0.811,52.4,Tier 1 - Immediate Action,Recent FDA OAI Inspection; NADAC Price +12.5%; Low Buffer (14 DOH)
+00409-6625-02,Norepinephrine Bitartrate Injection 1 mg/mL,310,8,0.886,50.1,Tier 1 - Immediate Action,Recent FDA OAI Inspection; CARES Act 3112 Notice; NADAC Price +16.9%
+00703-5720-01,Cisplatin Injection 1 mg/mL,180,9,0.99,42.6,Tier 1 - Immediate Action,Recent FDA OAI Inspection; Sole/Dual Supplier Concentration; CARES Act 3112 Notice
+00641-6142-10,Ketorolac Tromethamine Injection 30 mg/mL,610,12,0.736,30.6,Tier 2 - Active Monitoring,CARES Act 3112 Notice; NADAC Price +15.2%; Low Buffer (12 DOH)
+67457-0421-02,Midazolam Injection 5 mg/mL,540,15,0.811,26.0,Tier 2 - Active Monitoring,Recent FDA OAI Inspection; NADAC Price +11.0%
+00143-9573-01,Cefazolin for Injection 1 g,1100,16,0.105,3.7,Tier 3 - Routine Surveillance,Baseline Market Risk
+00406-0512-01,Oxycodone HCl Tablets 5 mg,700,20,0.01,0.3,Tier 3 - Routine Surveillance,Baseline Market Risk
+00093-3109-01,Amoxicillin Capsules 500 mg,1500,35,0.01,0.1,Tier 3 - Routine Surveillance,Baseline Market Risk
+00378-1805-01,Levothyroxine Sodium Tablets 50 mcg,1200,42,0.01,0.1,Tier 3 - Routine Surveillance,Baseline Market Risk
+00069-3150-83,Azithromycin Tablets 250 mg,650,30,0.01,0.1,Tier 3 - Routine Surveillance,Baseline Market Risk
